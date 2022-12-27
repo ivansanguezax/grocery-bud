@@ -6,7 +6,7 @@ In this project we will learn to use the Javascript programming language, where 
 ## Tools we will use 🛠️ 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 
-## Para una guia completa revisar el siguiente post ➡️  [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript "Javascript")
+## For a complete guide check the following post  ➡️  [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript "Javascript")
 
 
 ## 🌐 Socials:
