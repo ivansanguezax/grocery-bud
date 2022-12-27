@@ -1,0 +1,19 @@
+{
+  "name": "grocery-bud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivansanguezax/grocery-bud.git"
+  },
+  "author": "ivansanguezax",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivansanguezax/grocery-bud/issues"
+  },
+  "homepage": "https://github.com/ivansanguezax/grocery-bud#readme"
+}
